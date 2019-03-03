@@ -2,12 +2,15 @@
 # Checking how well different classification algorithms are able to classify NHL players on their positions based on typical regular season stats
 
 **About data:**
+
 NHL 2017-2018 regular season data for players
 
 Positions (Pos):
 - Defender (D)
 - Winger (W)
 - Center (C)
+
+Wingers and Centers could also be combined to Forwards (F)
 
 Stats:
 - Goals (G)
@@ -21,6 +24,7 @@ Stats:
 
 
 **Data source:**
+
 Raw: nhlseason1718_original.txt
 Processed: nhlseason1718_processed.csv
 
