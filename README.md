@@ -25,8 +25,8 @@ Stats:
 
 **Data source:**
 
-Raw: nhlseason1718_original.txt
-Processed: nhlseason1718_processed.csv
+- Raw: nhlseason1718_original.txt
+- Processed: nhlseason1718_processed.csv
 
 
 **Algorithms:**
